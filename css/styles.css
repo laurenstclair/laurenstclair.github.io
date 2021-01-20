@@ -78,12 +78,6 @@ img {
     background-attachment: fixed;
 }
 
-.links_container {
-    display: inline;
-    padding: 5px; 
-    align-items: center;
-}
-
 .links-container {
     text-align: center;
     position: absolute;
