@@ -110,7 +110,6 @@ button {
     border: none;
     cursor: pointer;
     overflow: hidden;
-    outline: none;
 }
 
 .wrapper_portfolio {
@@ -135,7 +134,7 @@ button {
 
 .column_portfolio {
     align-items: center;
-    padding: 30px;
+    padding: 40px;
     border: 1px solid #1ea580;
     border-radius: 4%;
 }
