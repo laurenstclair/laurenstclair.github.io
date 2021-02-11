@@ -202,10 +202,14 @@ button {
     }
     .column_portfolio {
         text-align: center;
-        padding: 40px;
+        padding: 20px;
     }
     .column_profile {
         text-align: center;
+        padding: 20px;
+    }
+    .banner .banner_secondary {
+        height: 20%;
     }
 }
 
