@@ -1,3 +1,4 @@
-## Welcome to my personal website  :wave: :seedling:
+## Howdy ⚘ 
 
-This project is still a seedling. The website will eventually be available as a twin website built in React, as well as point to some projects inspired by digital gardens.
+  This site is still a seedling and is inspired by digital gardens
+              and handmade websites.
