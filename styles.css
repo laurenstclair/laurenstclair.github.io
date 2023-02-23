@@ -21,16 +21,28 @@ h1 {
 }
 
 img {
-  max-width: 600px;
+  max-width: 800px;
+}
+
+a {
+  color: #30615f;
 }
 
 .intro,
 .outro,
 .header {
-  padding: 45px 45px 15px;
   max-width: 100%;
   align-content: center;
   text-align: center;
+}
+
+.intro,
+.header {
+  padding: 45px 45px 15px;
+}
+
+.outro {
+  padding: 45px 45px 45px;
 }
 
 .container {
