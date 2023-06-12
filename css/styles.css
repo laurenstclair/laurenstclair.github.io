@@ -9,7 +9,6 @@ body {
 h1 {
   font-family: "Texturina", serif;
   font-weight: 100;
-  font-style: italic;
   letter-spacing: 1px;
   font-size: 30px;
   text-align: center;
@@ -32,7 +31,7 @@ img {
 }
 
 .intro {
-  background-color: #e0cba8;
+  background-color: #1ea580;
   color: indigo;
   padding: 70px;
 }
@@ -45,7 +44,7 @@ img {
 }
 
 .desc {
-  border: 1px solid #1ea580;
+  border: 1px solid #e0cba8;
   padding: 15px;
   border-radius: 10%;
   text-align: center;
