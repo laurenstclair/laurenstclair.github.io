@@ -1,0 +1,45 @@
+html,
+body {
+  background: darkblue;
+  color: lightsalmon;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h2 {
+  margin: 5px 0;
+  padding: 0;
+}
+
+main {
+  margin: 0 2rem 2rem 2rem;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.left {
+  width: 35%;
+  padding: 10px;
+}
+
+.right {
+  width: 65%;
+  padding: 10px;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
